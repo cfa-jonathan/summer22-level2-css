@@ -1,0 +1,9 @@
+img { width : 600px ; border-width : 3px ; border-style: solid ; }
+#second-img { border-color: red ; }
+.blue-border { border-color: blue ; }
+
+h1 { margin: auto ; padding: 10px ; border: 5px solid black ; font-size : 70px ; width : 50% ; }
+
+a { display: block; background-color: red; color: blue; padding: 10px; }
+
+a:hover { background-color: yellow; }
